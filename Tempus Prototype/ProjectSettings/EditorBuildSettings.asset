@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MetaGame.unity
+    guid: 0135ca6cec151214da030cc3708e4a44
+  - enabled: 1
+    path: Assets/Scenes/Denial.unity
+    guid: 247b7777b4b516249b6023eb61fb6f0e
+  - enabled: 1
+    path: Assets/Scenes/Anger.unity
+    guid: bdf2b43e0c25de947baa9704494bb3bd
+  - enabled: 1
+    path: Assets/Scenes/Bargaining.unity
+    guid: 01f97dc9f7e941c43a4b6dad43d44032
+  - enabled: 1
+    path: Assets/Scenes/Depression.unity
+    guid: d12f066904d40044592ca121900bfa4b
+  - enabled: 1
+    path: Assets/Scenes/Acceptance.unity
+    guid: 0e11dddce66c47346b4a5e5e4268d8d2

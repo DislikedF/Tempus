@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 072d584f562705d40a0e0a63398eeabd
+timeCreated: 1521719387
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: hot_air_balloon
+    100002: hot_air_balloon1
+    100004: hot_air_balloon10
+    100006: hot_air_balloon11
+    100008: hot_air_balloon12
+    100010: hot_air_balloon13
+    100012: hot_air_balloon14
+    100014: hot_air_balloon15
+    100016: hot_air_balloon16
+    100018: hot_air_balloon17
+    100020: hot_air_balloon18
+    100022: hot_air_balloon19
+    100024: hot_air_balloon2
+    100026: hot_air_balloon20
+    100028: hot_air_balloon3
+    100030: hot_air_balloon4
+    100032: hot_air_balloon5
+    100034: hot_air_balloon6
+    100036: hot_air_balloon7
+    100038: hot_air_balloon8
+    100040: hot_air_balloon9
+    100042: //RootNode
+    400000: hot_air_balloon
+    400002: hot_air_balloon1
+    400004: hot_air_balloon10
+    400006: hot_air_balloon11
+    400008: hot_air_balloon12
+    400010: hot_air_balloon13
+    400012: hot_air_balloon14
+    400014: hot_air_balloon15
+    400016: hot_air_balloon16
+    400018: hot_air_balloon17
+    400020: hot_air_balloon18
+    400022: hot_air_balloon19
+    400024: hot_air_balloon2
+    400026: hot_air_balloon20
+    400028: hot_air_balloon3
+    400030: hot_air_balloon4
+    400032: hot_air_balloon5
+    400034: hot_air_balloon6
+    400036: hot_air_balloon7
+    400038: hot_air_balloon8
+    400040: hot_air_balloon9
+    400042: //RootNode
+    2300000: hot_air_balloon
+    2300002: hot_air_balloon1
+    2300004: hot_air_balloon10
+    2300006: hot_air_balloon11
+    2300008: hot_air_balloon12
+    2300010: hot_air_balloon13
+    2300012: hot_air_balloon14
+    2300014: hot_air_balloon15
+    2300016: hot_air_balloon16
+    2300018: hot_air_balloon17
+    2300020: hot_air_balloon18
+    2300022: hot_air_balloon19
+    2300024: hot_air_balloon2
+    2300026: hot_air_balloon20
+    2300028: hot_air_balloon3
+    2300030: hot_air_balloon4
+    2300032: hot_air_balloon5
+    2300034: hot_air_balloon6
+    2300036: hot_air_balloon7
+    2300038: hot_air_balloon8
+    2300040: hot_air_balloon9
+    3300000: hot_air_balloon
+    3300002: hot_air_balloon1
+    3300004: hot_air_balloon10
+    3300006: hot_air_balloon11
+    3300008: hot_air_balloon12
+    3300010: hot_air_balloon13
+    3300012: hot_air_balloon14
+    3300014: hot_air_balloon15
+    3300016: hot_air_balloon16
+    3300018: hot_air_balloon17
+    3300020: hot_air_balloon18
+    3300022: hot_air_balloon19
+    3300024: hot_air_balloon2
+    3300026: hot_air_balloon20
+    3300028: hot_air_balloon3
+    3300030: hot_air_balloon4
+    3300032: hot_air_balloon5
+    3300034: hot_air_balloon6
+    3300036: hot_air_balloon7
+    3300038: hot_air_balloon8
+    3300040: hot_air_balloon9
+    4300000: hot_air_balloon
+    4300002: hot_air_balloon1
+    4300004: hot_air_balloon2
+    4300006: hot_air_balloon3
+    4300008: hot_air_balloon4
+    4300010: hot_air_balloon5
+    4300012: hot_air_balloon6
+    4300014: hot_air_balloon7
+    4300016: hot_air_balloon8
+    4300018: hot_air_balloon9
+    4300020: hot_air_balloon10
+    4300022: hot_air_balloon11
+    4300024: hot_air_balloon12
+    4300026: hot_air_balloon13
+    4300028: hot_air_balloon14
+    4300030: hot_air_balloon15
+    4300032: hot_air_balloon16
+    4300034: hot_air_balloon17
+    4300036: hot_air_balloon18
+    4300038: hot_air_balloon19
+    4300040: hot_air_balloon20
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8c58aa3d30959f7498a24617557c5b63
+timeCreated: 1511429378
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PineLintGerm
+  fontNames:
+  - PineLintGerm
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - Ground
+  - Lightning
+  - Breakable
+  - Clone
+  - Tag_Trap_DE
+  - Obstacle_DN
+  - Path_DN
+  - Obstacle
+  - Broken_AN
+  - Sky_DN
+  - Scenery_DE
+  - Ground_DN
+  - Ground_Clone_AN
+  - Leafs
+  - FallingLeaf
+  - DenialGeneral
+  - DangerTree
+  - h
+  - handle
+  - Background_DN
+  - Flora_DN
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Broken_AN
+  - Player_AN
+  - Ground
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
